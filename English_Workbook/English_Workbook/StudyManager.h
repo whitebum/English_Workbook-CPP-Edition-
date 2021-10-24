@@ -9,7 +9,7 @@ class Launcher : public Singleton<Launcher>
 {
 private:
 
-	string Version = "Ver 1.5";
+	string Version = "Ver 1.6";
 	int Act = 0;
 
 public:
